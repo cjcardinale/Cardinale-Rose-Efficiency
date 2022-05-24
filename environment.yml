@@ -1,11 +1,14 @@
-numpy
-xarray
-palettable
-pandas
-cartopy
-seaborn
-dask
-scipy
-statsmodels
-matplotlib
-distributed
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - xarray
+  - palettable
+  - pandas
+  - cartopy
+  - seaborn
+  - dask
+  - scipy
+  - statsmodels
+  - matplotlib
+  - distributed
